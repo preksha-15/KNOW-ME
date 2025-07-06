@@ -1,7 +1,7 @@
 # KNOW-ME
 # 💫 About Me:
 Based in Delhi NCR, I'm Preksha Agarwal, a Computer Science student dedicated to building smarter systems and refining algorithms. My focus is to make a tangible impact through AI/ML research. I'm open to internship opportunities, collaborative projects, and engaging conversations on AI advancements.<br>
-🎓 A Computer Science student deeply passionate about AI & Machine Learning. <br>🔬 Driven by a strong interest in research and development. <br>💡 Possess hands-on experience in computer vision, deep learning, and dataset creation.<br>📫 How to reach me: a.preksha15@gmail.com
+🎓 A Computer Science student deeply passionate about AI & Machine Learning. <br>🔬 Driven by a strong interest in research and development. <br>💡 Possess hands-on experience in computer vision, deep learning, and dataset creation.<br>📫 How to reach me: a.preksha15@gmail.com <br> FIND ALL MY PROJECT HERE➡️ [https://github.com/preksha-15](https://github.com/preksha-15)
 
 
 ## 🌐 Socials:
